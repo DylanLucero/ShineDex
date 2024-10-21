@@ -5,11 +5,42 @@
     <!-- https://developer.mozilla.org/en-US/docs/Web/HTTP/CSP -->
     <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'">
     <title>Shinédex</title>
-    <link href="src/output.css" rel="stylesheet">
+    <link href="./output.css" rel="stylesheet">
+    <link href="./index.css" rel="stylesheet">
 </head>
 <body>
-<h1 class=" text-3xl font-bold">Shinédex</h1>
+  <div class="header">
+    <div class="img">
+        <img src="./assets/img/pokeball64.png" alt="pokemon">
+    </div>
+    <div class="text">
+        <h1>Shinédex</h1>
+    </div>
+    <div class="dark-mode-switch">
+        <label class="switch">
+            <input type="checkbox" id="dark-mode-toggle">
+            <span class="slider round"></span>
+        </label>
+    </div>
+</div>
 
+<div class="search">
+    <input type="text" id="search" placeholder="Search for a Pokémon">
+</div>
+
+<div id="loading-spinner" class="spinner"></div>
+
+<div id="pokemon-info-modal" class="modal">
+    <div class="modal-content">
+        <span class="close-button">&times;</span>
+        <div id="pokemon-info"></div>
+    </div>
+</div>
+
+<div class="pokemon-container" id="pokemon-container">
+    <!-- Pokémon images will be dynamically added here -->
+</div>
+
+<script src="index.js"></script>
 </body>
-<script src="src/main.js"></script>
 </html>
