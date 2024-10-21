@@ -41,7 +41,6 @@ document.addEventListener('DOMContentLoaded', function() {
             checkVisibility(); // Initial check
         });
 
-    // Function to display Pokémon information
 // Function to display Pokémon information
 function displayPokemonInfo(pokemon) {
     const infoContainer = document.getElementById('pokemon-info');
