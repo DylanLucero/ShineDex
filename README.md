@@ -1,5 +1,7 @@
 # PokéDex
 
+## Currently Built on Electron
+
 ## Features Implemented:
 
 - **Gen 1 to Gen 7 Pokédex**
