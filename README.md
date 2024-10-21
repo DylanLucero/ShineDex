@@ -2,16 +2,17 @@
 
 ## Features Implemented:
 
-- **Gen 1 to Gen 7 Pokédex**: You can browse and search for all Pokémon from Generations 1 through 7.
-- **Searchable Pokédex**: Easily search for any Pokémon by name or number to find their details quickly.
-- **Shiny Pokémon Toggle**: Click the star icon next to a Pokémon to toggle between its regular and shiny form.
+- **Gen 1 to Gen 7 Pokédex**
+- **Searchable Pokédex**
+- **Shiny Pokémon Toggle**
 
 ## To-Do List:
 
-- **Gen 8 and Gen 9**: The Pokémon from these generations are yet to be added.
-- **Encounter Tracker**: A planned feature to track your in-game Pokémon encounters.
-- **UI Bug Fixes**: A few minor bugs are being worked on to improve the user experience.
-- **Multi-OS Builds**: Builds for additional operating systems are still in development.
+- **Gen 8 and Gen 9**
+- **Encounter Tracker**
+- **UI Bug Fixes**
+- **Web Build**
+- **Multi-OS Builds**
 
 Stay tuned for future updates and improvements!
 
