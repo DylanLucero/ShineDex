@@ -18,8 +18,8 @@ Stay tuned for future updates and improvements!
 # Building from Master Branch - Quick Guide
 
 ## Prerequisites:
-Git
-Node.js
+- Git
+- Node.js
 
 ## Steps:
 
