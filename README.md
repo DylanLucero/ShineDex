@@ -1,4 +1,4 @@
-# PokéDex
+# ShinéDex
 
 ## Currently Built on Electron
 
